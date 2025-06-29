@@ -1,6 +1,6 @@
 # Stratification Feedback Paper Plots
 
-Notebooks containing analysis and code for producing figures in draft manuscript 'Stratified suppression of turbulence in an ice shelf basal melt parameterisation' by Claire Yung, Madi Rosevear, Adele Morrison, Andy Hogg and Yoshihiro Nakayama, submitted to The Cryosphere in 2024.
+Notebooks containing analysis and code for producing figures in draft manuscript 'Stratified suppression of turbulence in an ice shelf basal melt parameterisation' by Claire Yung, Madi Rosevear, Adele Morrison, Andy Hogg and Yoshihiro Nakayama, submitted to The Cryosphere in 2024. https://egusphere.copernicus.org/preprints/2024/egusphere-2024-3513/
 
 Processed model data coming soon. Notebooks a work in progress.
 
