@@ -1,2 +1,8 @@
 *.nc
+talk-slides/*
+.ipynb_checkpoints/*
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+OLD-MITgcmPineIslandGlacierPlots-FINAL-Copy1.ipynb
+figs/*
 
